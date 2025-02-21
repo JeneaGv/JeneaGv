@@ -1,14 +1,18 @@
 ﻿# Salutare!
  <img src="images/avatar.jpg">
- ## Despre mine
+ # Despre mine
  Sunt un pasionat de tehnologie și dezvoltare software, mereu în căutarea unor noi provocări și oportunități de învățare.
- ## Domenii de interes\n- Dezvoltare software\n- Aplicații web și mobile\n\n## Limbaje de programare
- ### Cunosc:
+ # Domenii de interes
+ Dezvoltare software
+ Aplicații web și mobile
+ # Cunosc:
  JavaScript
  C++
  HTML & CSS
- ### Învăț: Java
- ### Doresc să învăț:Swift
+ # Învăț: 
+ Java
+ # Doresc să învăț:
+ Swift
  ## Cum să mă contactați
  Email: jgavenco@mail.ru
  GitHub: https://github.com/JeneaGv/
