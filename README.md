@@ -6,7 +6,7 @@
  # Domenii de interes
  Dezvoltare software
  Aplicații web și mobile
- # Cunosc:
+ # Cunosc: 
  JavaScript
  C++
  HTML & CSS
