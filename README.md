@@ -1,5 +1,5 @@
 ﻿# Salutare!
- images/avatar.jpg
+ <img src="images/avatar.jpg">
  ## Despre mine
  Sunt un pasionat de tehnologie și dezvoltare software, mereu în căutarea unor noi provocări și oportunități de învățare.
  ## Domenii de interes\n- Dezvoltare software\n- Aplicații web și mobile\n\n## Limbaje de programare
