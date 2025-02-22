@@ -8,9 +8,9 @@
  
  Aplicații web și mobile
  # Cunosc: 
- JavaScript
- C++
- HTML & CSS
+ 1.JavaScript
+ 2.C++
+ 3.HTML & CSS
  # Învăț: 
  Java
  # Doresc să învăț:
