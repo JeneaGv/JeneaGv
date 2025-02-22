@@ -5,6 +5,7 @@
  Sunt un pasionat de tehnologie și dezvoltare software, mereu în căutarea unor noi provocări și oportunități de învățare.
  # Domenii de interes
  Dezvoltare software
+ 
  Aplicații web și mobile
  # Cunosc: 
  JavaScript
