@@ -6,6 +6,7 @@
  # Domenii de interes
  Dezvoltare software
  <p> Aplicații web și mobile</p>
+
  # Cunosc: 
  <OL>
   <li>JavaScript</li>
@@ -18,5 +19,5 @@
  Swift
  ## Cum să mă contactați
  Email: jgavenco@mail.ru
- GitHub: https://github.com/JeneaGv/
+ <br>GitHub: https://github.com/JeneaGv/
 
