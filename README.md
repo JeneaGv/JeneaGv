@@ -11,6 +11,7 @@
   <li>JavaScript</li>
  <li>C++</li>
  <li>HTML & CSS</li></OL>
+ 
  # Învăț: 
  Java
  # Doresc să învăț:
