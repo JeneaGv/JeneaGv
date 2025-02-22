@@ -5,13 +5,12 @@
  Sunt un pasionat de tehnologie și dezvoltare software, mereu în căutarea unor noi provocări și oportunități de învățare.
  # Domenii de interes
  Dezvoltare software
- 
- Aplicații web și mobile
+ <p> Aplicații web și mobile</p>
  # Cunosc: 
  <OL>
-  <li></li>JavaScript
- <li></li>C++
- <li></li>HTML & CSS</OL>
+  <li>JavaScript</li>
+ <li>C++</li>
+ <li>HTML & CSS</li></OL>
  # Învăț: 
  Java
  # Doresc să învăț:
